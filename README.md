@@ -1,6 +1,6 @@
 # SortingVisualiser
 
-Super basic Sorting Visualuser Made with SFML/C++
+Super basic Sorting Visualiser Made with SFML/C++
 
 Press 1 to do bubble sort
 
@@ -13,4 +13,6 @@ TODO:
 
       2. Give ability to set bar length, height and size
       
-      3. Remove stuff from main into classes :P
+      3. Add timer
+      
+      4. Remove stuff from main into classes :P
