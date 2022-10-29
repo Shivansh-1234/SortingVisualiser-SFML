@@ -3,6 +3,8 @@
 Super basic Sorting Visualuser Made with SFML/C++
 
 Press 1 to do bubble sort
+
+
 Press 2 to do selection sort
 
 TODO: 
